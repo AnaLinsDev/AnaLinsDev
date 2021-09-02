@@ -2,8 +2,8 @@
 
 
 - 🔭 Atualmente estou no 5º período do curso de Sistemas para Internet ( IFPB )
-- 🌱 Estudando React, Vue e UX/UI
-- 🤔 Estou procurando por estágio em desenvolvimento Frontend e/ou Mobile
+- 🌱 Estudando React e UX/UI
+- 🤔 Estou procurando por estágio ou vaga júnior em desenvolvimento Frontend e/ou Mobile
 - 💬 Contato : ana.o.lins@gmail.com
 
 
