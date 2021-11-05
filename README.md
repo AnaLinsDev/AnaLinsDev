@@ -1,9 +1,9 @@
 ### Olá, eu sou a Ana Júlia Lins 👋
 
 
-- 🔭 Atualmente estou no 5º período do curso de Sistemas para Internet ( IFPB )
-- 🌱 Estudando React e UX/UI
-- 🤔 Estou procurando por estágio ou vaga júnior em desenvolvimento Frontend e/ou Mobile
+- 🔭 Atualmente estou no 6º período do curso de Sistemas para Internet ( IFPB )
+- 🌱 Estudando Backend com Java/Python/ExpressJs  e Frontend com React e UX/UI
+- 🤔 Estou procurando por estágio ou vaga júnior em desenvolvimento
 - 💬 Contato : ana.o.lins@gmail.com
 
 
