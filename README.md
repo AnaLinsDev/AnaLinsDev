@@ -13,7 +13,7 @@
       <img align="right" alt="Ana" height="250" width="270" src="https://user-images.githubusercontent.com/60307596/130715496-3b647daf-b89a-402a-9830-63cf3f182470.png">
 
 </div>
-
+  
  <div style="display: inline_block"><br>
 
   <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
