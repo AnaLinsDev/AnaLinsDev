@@ -7,12 +7,7 @@
 - 💬 Contato : ana.o.lins@gmail.com
 
 
- <div>
-  <a href="https://github.com/AnaLinsDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analinsdev&layout=compact&langs_count=7&theme=dracula"/>
-      <img align="right" alt="Ana" height="250" width="270" src="https://user-images.githubusercontent.com/60307596/130715496-3b647daf-b89a-402a-9830-63cf3f182470.png">
 
-</div>
   
  <div style="display: inline_block"><br>
 
