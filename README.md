@@ -1,9 +1,7 @@
 ### Olá, eu sou a Ana Júlia Lins 👋
 
 
-- 🔭 Atualmente estou trabalhando como desenvolvedora FullStack
-- 🌱 Estudando Backend com Python ( Django ) e NodeJS ( ExpressJs )  
-- 🌱 Estudando Frontend com React, Vue ( Nuxt ) e UX/UI
+- 🌱 Estudando NodeJS ( ExpressJs ), React, Vue e UX/UI
 - 💬 Contato : analinsdev@gmail.com
 
  <div>
